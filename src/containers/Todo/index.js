@@ -34,7 +34,7 @@ class ToDo extends Component {
     } = this.props;
     return (
       <Layout style={{ background: "none" }}>
-        <TodoWrapper className="isomorphicTodoComponent">
+        <TodoWrapper className="InsightsicTodoComponent">
           <Header className="isoTodoHeader">
             <Input
               placeholder={"Type here for add a new todo"}

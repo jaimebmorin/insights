@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import IsomorphicTransfer from '../Transfer';
+import InsightsicTransfer from '../Transfer';
 import AntdUpload from '../Upload';
 import AntdCheckbox from '../Checkbox';
 import AntdAutocomplete from '../AutoComplete';
@@ -26,19 +26,19 @@ const steps = [
       <div className="isoExampleWrapper">
         <div style={{ padding: '10px 20px' }}>
           <FormFieldTitle className="isoFormFieldTitle">Input</FormFieldTitle>
-          <Input className="isomorphicInputBox" />
+          <Input className="InsightsicInputBox" />
         </div>
 
         <div style={{ padding: '20px' }}>
-          <IsomorphicTransfer />
+          <InsightsicTransfer />
         </div>
 
         <div style={{ padding: '20px' }}>
-          <AntdUpload className="isomorphicUpload" />
+          <AntdUpload className="InsightsicUpload" />
         </div>
 
         <div style={{ padding: '20px' }}>
-          <AntdCheckbox className="isomorphicCheckbox" />
+          <AntdCheckbox className="InsightsicCheckbox" />
         </div>
       </div>
     )

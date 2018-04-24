@@ -61,7 +61,7 @@ class DesktopView extends Component {
       );
     }
     return (
-      <MailBox className="isomorphicMailBox">
+      <MailBox className="InsightsicMailBox">
         <div className="isoLeftWrapper">
           <ComposeBtn changeComposeMail={changeComposeMail} />
           <div className="isoMailOptions">

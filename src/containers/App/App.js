@@ -54,7 +54,7 @@ export class App extends Component {
                     }}
                   >
                     <Content
-                      className="isomorphicContent"
+                      className="InsightsicContent"
                       style={{
                         padding: "70px 0 0",
                         flexShrink: "0",

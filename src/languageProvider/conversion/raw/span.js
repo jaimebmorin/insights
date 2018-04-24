@@ -466,7 +466,7 @@ Iniciar sesión usando Facebook
 Acceder con Google Plus
 Iniciar sesión con Auth0
 Se te olvidó tu contraseña
-Crear una cuenta Isomorphoic
+Crear una cuenta Insightsoic
 Isomórfico
 Estoy de acuerdo con los términos y condiciones
 Regístrate

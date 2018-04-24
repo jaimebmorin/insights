@@ -450,15 +450,15 @@ RETOUR À LA MAISON
 Erreur Interne du Serveur
 Quelque chose a mal tourné. Veuillez réessayer la lettre.
 RETOUR À LA MAISON
-Isomorphique
+Insightsique
 Mot de passe oublié?
 Entrez votre email et nous vous envoyons un lien de réinitialisation.
 Envoyer une demande
-Isomorphique
+Insightsique
 réinitialiser le mot de passe
 Entrez un nouveau mot de passe et confirmez-le.
 sauvegarder
-Isomorphique
+Insightsique
 Souviens-toi de moi
 se connecter
 nom dutilisateur  démo   mot de passe  démodemo   ou cliquez simplement sur nimporte quel bouton.
@@ -466,8 +466,8 @@ Connectez-vous avec Facebook
 Connectez-vous avec Google Plus
 Connectez-vous avec Auth0
 Mot de passe oublié
-Créer un compte isomorphoïque
-Isomorphique
+Créer un compte Insightsoïque
+Insightsique
 Je suis daccord avec les termes et conditions
 Sinscrire
 Inscrivez-vous avec Facebook
