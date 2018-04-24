@@ -41,9 +41,7 @@ class Topbar extends Component {
           </div>
 
           <ul className="isoRight">
-            <li className="isoSearch">
-              <TopbarSearch locale={locale} />
-            </li>
+            
 
             <li
               onClick={() => this.setState({ selectedItem: 'notification' })}
@@ -58,13 +56,6 @@ class Topbar extends Component {
             >
               <TopbarMessage locale={locale} />
             </li>
-            <li
-              onClick={() => this.setState({ selectedItem: 'addToCart' })}
-              className="isoCart"
-            >
-              <TopbarAddtoCart url={url} locale={locale} />
-            </li>
-
             <li
               onClick={() => this.setState({ selectedItem: 'user' })}
               className="isoUser"
