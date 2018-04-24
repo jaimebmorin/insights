@@ -16,8 +16,8 @@ const options = [
     leftIcon: "ion-clipboard"
   },
   {
-    key: "charts",
-    label: "sidebar.charts",
+    key: "Patterns",
+    label: "Patterns",
     leftIcon: "ion-arrow-graph-up-right",
     
   },
