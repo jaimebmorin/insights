@@ -62,7 +62,7 @@ class ThemeSwitcher extends Component {
 
         <div className="purchaseBtnWrapper">
           <a
-            href="https://themeforest.net/item/Insight-react-redux-admin-dashboard/20262330?ref=redqteam"
+            href="https://themeforest.net/item/Insights-react-redux-admin-dashboard/20262330?ref=redqteam"
             className="purchaseBtn"
             style={styleButton}
           >

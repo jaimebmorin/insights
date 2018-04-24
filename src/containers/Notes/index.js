@@ -35,7 +35,7 @@ class Notes extends Component {
         ? notes.filter(note => note.id === selectedId)[0]
         : null;
     return (
-      <NoteComponentWrapper className="InsightNoteComponent">
+      <NoteComponentWrapper className="InsightsNoteComponent">
         <div style={{ width: "340px" }} className="isoNoteListSidebar">
           <NoteList
             notes={notes}

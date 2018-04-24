@@ -82,7 +82,7 @@ class TabView extends Component {
     }
     return (
       <div style={{ height: '100%' }}>
-        <MailBox className="InsightMailBox">
+        <MailBox className="InsightsMailBox">
           {composeMail ? (
             ''
           ) : (

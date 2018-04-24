@@ -144,7 +144,7 @@ class Sidebar extends Component {
           collapsible={true}
           collapsed={collapsed}
           width="240"
-          className="InsightSidebar"
+          className="InsightsSidebar"
           onMouseEnter={onMouseEnter}
           onMouseLeave={onMouseLeave}
           style={styling}

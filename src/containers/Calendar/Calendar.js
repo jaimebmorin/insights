@@ -91,7 +91,7 @@ class FullCalender extends Component {
       onEventDrop: this.onEventDrop
     };
     return (
-      <CalendarStyleWrapper className="InsightCalendarWrapper">
+      <CalendarStyleWrapper className="InsightsCalendarWrapper">
         <ModalEvents
           modalVisible={modalVisible}
           selectedData={selectedData}

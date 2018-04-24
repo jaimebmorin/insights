@@ -450,15 +450,15 @@ BACK HOME
 Internal Server Error
 Something went wrong. Please try again letter.
 BACK HOME
-Insight
+Insights
 Forgot Password?
 Enter your email and we send you a reset link.
 Send request
-Insight
+Insights
 Reset Password
 Enter new password and confirm it.
 Save
-Insight
+Insights
 Remember me
 Sign in
 username  demo   password  demodemo   or Just click on any button.
@@ -466,8 +466,8 @@ Sign in with Facebook
 Sign in with Google Plus
 Sign in with Auth0
 Forgot password
-Create an Insightsoic account
-Insight
+Create an Insightssoic account
+Insights
 I agree with terms and condtions
 Sign Up
 Sign up with Facebook

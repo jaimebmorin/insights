@@ -47,44 +47,44 @@ const selectOptions = [
 
 const defaultValues = {
   basic: `const component = {
-    name: 'Insight',
+    name: 'Insights',
     author: 'RedQ Team',
-    website: 'https://Insight.redq.io/'
+    website: 'https://Insights.redq.io/'
 };`,
   javascript: `const component = {
-    name: 'Insight',
+    name: 'Insights',
     author: 'RedQ Team',
-    website: 'https://Insight.redq.io/'
+    website: 'https://Insights.redq.io/'
 };`,
-  markdown: `# Insight
+  markdown: `# Insights
 ###This is a RedQ Team production
-[have a look](https://Insight.redq.io/)
+[have a look](https://Insights.redq.io/)
   `,
   xml: `<isomprphic>
     <to>Tove</to>
-    <name>Insight</name>
+    <name>Insights</name>
     <author>RedQ Team</author>
-    <website>Insight.redq.io</website>
+    <website>Insights.redq.io</website>
 </isomprphic>`,
   php: `<html>
  <head>
   <title> v</title>
  </head>
  <body>
- <h1>https://Insight.redq.io/</h1>
+ <h1>https://Insights.redq.io/</h1>
  <p>This is a RedQ Team production</p>
- <a href="https://Insight.redq.io/">visit ou site</a>
+ <a href="https://Insights.redq.io/">visit ou site</a>
  </body>
 </html>
 `,
   python: `
-print("Insight")
+print("Insights")
 print("This is a RedQ Team production")
-print("visit us https://Insight.redq.io ")
+print("visit us https://Insights.redq.io ")
 `,
-  ruby: `rint "Insight"
+  ruby: `rint "Insights"
 print "This is a RedQ Team production"
-print "visit us https://Insight.redq.io "
+print "visit us https://Insights.redq.io "
 `
 };
 
