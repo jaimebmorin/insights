@@ -27,7 +27,7 @@ class Topbar extends Component {
         <Header
           style={styling}
           className={
-            collapsed ? 'InsightsicTopbar collapsed' : 'InsightsicTopbar'
+            collapsed ? 'InsightTopbar collapsed' : 'InsightTopbar'
           }
         >
           <div className="isoLeft">

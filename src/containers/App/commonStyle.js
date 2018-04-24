@@ -48,7 +48,7 @@ const AppHolder = styled.div`
     height: 100%;
   }
 
-  .InsightsicLayout {
+  .InsightLayout {
     width: calc(100% - 240px);
     flex-shrink: 0;
     overflow-x: hidden !important;

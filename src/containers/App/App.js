@@ -54,7 +54,7 @@ export class App extends Component {
                     }}
                   >
                     <Content
-                      className="InsightsicContent"
+                      className="InsightContent"
                       style={{
                         padding: "70px 0 0",
                         flexShrink: "0",

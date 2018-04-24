@@ -88,7 +88,7 @@ class MobileView extends Component {
     }
     return (
       <div style={{ height: '100%' }}>
-        <MailBox className="InsightsicMailBox">
+        <MailBox className="InsightMailBox">
           {listVisible ? (
             composeMail ? (
               <div className="isoSingleMailWrapper">

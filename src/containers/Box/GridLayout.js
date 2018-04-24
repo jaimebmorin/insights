@@ -76,7 +76,7 @@ class GridLayout extends Component {
     const Layouts = generateLayoutfunc(allBox);
     const renderBox = singleBox => {
       return (
-        <div className="InsightsicSingleCardHolder" key={singleBox.i}>
+        <div className="InsightSingleCardHolder" key={singleBox.i}>
           <ReactElementResize
             debounceTimeout={200}
             onResize={data => {
@@ -85,7 +85,7 @@ class GridLayout extends Component {
           >
             {data => (
               <div
-                className="InsightsicSingleCard"
+                className="InsightSingleCard"
                 style={{
                   paddingRight: `${Math.ceil(gutter.gutterWidth)}px`,
                   paddingBottom: `${Math.ceil(gutter.gutterHeight)}px`

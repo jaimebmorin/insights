@@ -24,7 +24,7 @@ class FullCalender extends Component {
       selectable: true,
       step: 60,
       timeslots: 2,
-      className: 'InsightsicCalendar',
+      className: 'InsightCalendar',
       agenda: {
         event: EventAgenda
       }

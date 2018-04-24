@@ -84,7 +84,7 @@ export default class extends Component {
               <ContentHolder>
                 <Tag>{<IntlMessages id="uiElements.tags.tagOne" />}</Tag>
                 <Tag>
-                  <a href="https://Insightsic.redq.io/dashboard/op_tag">
+                  <a href="https://Insight.redq.io/dashboard/op_tag">
                     {<IntlMessages id="uiElements.tags.link" />}
                   </a>
                 </Tag>

@@ -2,9 +2,9 @@ export default {
   apiUrl: 'http://yoursite.com/api/'
 };
 const siteConfig = {
-  siteName: 'InsightsIC',
+  siteName: 'Insight',
   siteIcon: 'ion-flash',
-  footerText: 'Insightsic ©2017 Created by RedQ, Inc'
+  footerText: 'Insight ©2017 Created by RedQ, Inc'
 };
 
 const themeConfig = {
@@ -32,7 +32,7 @@ const Auth0Config = {
       redirectUrl: 'http://localhost:3000/auth0loginCallback'
     },
     languageDictionary: {
-      title: 'Insightsic',
+      title: 'Insight',
       emailInputPlaceholder: 'demo@gmail.com',
       passwordInputPlaceholder: 'demodemo'
     },

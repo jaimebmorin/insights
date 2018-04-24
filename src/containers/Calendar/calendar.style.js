@@ -5,7 +5,7 @@ import { transition, borderRadius } from "../../settings/style-util";
 import WithDirection from "../../settings/withDirection";
 
 const WDCalendarStyleWrapper = styled.div`
-  &.InsightsicCalendarWrapper {
+  &.InsightCalendarWrapper {
     position: relative;
     display: flex;
     flex-direction: column;
@@ -14,7 +14,7 @@ const WDCalendarStyleWrapper = styled.div`
       padding: 0px;
     }
 
-    .InsightsicCalendar {
+    .InsightCalendar {
       height: calc(100vh - 140px);
       padding: 30px;
       background: #fff;

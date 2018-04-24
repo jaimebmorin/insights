@@ -465,7 +465,7 @@ Accedi con Facebook
 Accedi con Google Plus
 Accedi con Auth0
 Ha dimenticato la password
-Crea un account Insightsoic
+Crea un account Insight
 isomorfo
 Sono daccordo con i termini e le condivisioni
 Registrazione

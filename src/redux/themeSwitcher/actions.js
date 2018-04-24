@@ -9,7 +9,7 @@ const actions = {
     const theme = getCurrentTheme(attribute, themeName);
     if (attribute === 'layoutTheme') {
       document.getElementsByClassName(
-        'InsightsicContent'
+        'InsightContent'
       )[0].style.backgroundColor =
         theme.backgroundColor;
     }
