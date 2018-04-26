@@ -4,7 +4,7 @@ export default {
 const siteConfig = {
   siteName: 'Insights',
   siteIcon: 'ion-flash',
-  footerText: 'Insights ©2017 Created by RedQ, Inc'
+  footerText: 'Insights ©2018 Created by The Ocean Agency'
 };
 
 const themeConfig = {
