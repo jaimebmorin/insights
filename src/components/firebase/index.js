@@ -8,8 +8,8 @@ import Firebase from '../../helpers/firebase/index';
 export default class extends Component {
   state = {
     visible: false,
-    email: 'demo@gmail.com',
-    password: 'demodemo',
+    email: 'demo@aeristo.com',
+    password: 'leather',
     confirmLoading: false
   };
   showModal = () => {
@@ -83,10 +83,10 @@ export default class extends Component {
         <Button type="primary" onClick={this.showModal} className="btnFirebase">
           {this.props.signup
             ? 'Sign up with Firebase'
-            : 'Sign in with Firebase'}
+            : 'Sign in'}
         </Button>
         <Modal
-          title="Sign in with Firebase"
+          title="Sign in"
           visible={this.state.visible}
           confirmLoading={this.state.confirmLoading}
           onCancel={this.handleCancel}

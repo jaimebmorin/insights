@@ -1,14 +1,14 @@
 Arguments: 
-  /usr/local/Cellar/node/9.9.0/bin/node /usr/local/bin/yarn start
+  /usr/local/Cellar/node/8.7.0/bin/node /usr/local/bin/yarn install
 
 PATH: 
-  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+  /usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin
 
 Yarn version: 
   1.5.1
 
 Node version: 
-  9.9.0
+  8.7.0
 
 Platform: 
   darwin x64
@@ -10718,16 +10718,14 @@ Lockfile:
     resolved "https://registry.yarnpkg.com/zen-observable/-/zen-observable-0.8.8.tgz#1ea93995bf098754a58215a1e0a7309e5749ec42"
 
 Trace: 
-  Error: Command failed.
-  Exit code: 1
-  Command: sh
-  Arguments: -c react-app-rewired start
-  Directory: /Users/dev243/Desktop/insights
-  Output:
-  
-      at ProcessTermError.MessageError (/usr/local/lib/node_modules/yarn/lib/cli.js:186:110)
-      at new ProcessTermError (/usr/local/lib/node_modules/yarn/lib/cli.js:226:113)
-      at ChildProcess.<anonymous> (/usr/local/lib/node_modules/yarn/lib/cli.js:30281:17)
-      at ChildProcess.emit (events.js:180:13)
-      at maybeClose (internal/child_process.js:936:16)
-      at Process.ChildProcess._handle.onexit (internal/child_process.js:220:5)
+  Error: https://registry.yarnpkg.com/Insights-fetch/-/Insights-fetch-2.2.1.tgz: Request failed "404 Not Found"
+      at new ResponseError (/usr/local/lib/node_modules/yarn/lib/cli.js:238:112)
+      at Request.<anonymous> (/usr/local/lib/node_modules/yarn/lib/cli.js:61626:26)
+      at emitOne (events.js:115:13)
+      at Request.emit (events.js:210:7)
+      at Request.module.exports.Request.onRequestResponse (/usr/local/lib/node_modules/yarn/lib/cli.js:133316:10)
+      at emitOne (events.js:115:13)
+      at ClientRequest.emit (events.js:210:7)
+      at HTTPParser.parserOnIncomingClient (_http_client.js:549:21)
+      at HTTPParser.parserOnHeadersComplete (_http_common.js:116:23)
+      at TLSSocket.socketOnData (_http_client.js:438:20)
