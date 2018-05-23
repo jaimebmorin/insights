@@ -2,9 +2,9 @@ export default {
   apiUrl: 'http://yoursite.com/api/'
 };
 const siteConfig = {
-  siteName: 'Insights',
+  siteName: 'Aeristo',
   siteIcon: 'ion-flash',
-  footerText: 'Insights ©2018 Created by The Ocean Agency'
+  footerText: 'Aeristo ©2018 Created by Jaime Morin'
 };
 
 const themeConfig = {
@@ -32,7 +32,7 @@ const Auth0Config = {
       redirectUrl: 'http://localhost:3000/auth0loginCallback'
     },
     languageDictionary: {
-      title: 'Insights',
+      title: 'Aeristo',
       emailInputPlaceholder: 'demo@gmail.com',
       passwordInputPlaceholder: 'demodemo'
     },
